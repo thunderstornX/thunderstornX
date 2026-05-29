@@ -21,7 +21,7 @@
 
 I am a security engineer who builds production systems where OSINT, digital forensics, and applied AI meet. My work runs from intelligence-acquisition pipelines and cryptographic chain-of-custody tooling to agentic, multi-agent reasoning systems and the governance that keeps them lawful.
 
-- Building **forenix-oss**, an open-source platform that turns public-source intelligence into court-admissible evidence.
+- Building **forenix-oss**, an open-source platform that turns public-source intelligence into tamper-evident, audit-ready evidence with a cryptographic chain of custody.
 - Engineering open-source data acquisition at **Alphasearch**.
 - MSc Cybersecurity, **SZABIST** (Sindh HEC Indigenous Scholar).
 - Interests: lawful OSINT, DFIR and evidence governance, agentic AI accountability, zero-trust enforcement.
@@ -37,7 +37,7 @@ I am a security engineer who builds production systems where OSINT, digital fore
 - **Customized agentic systems.** Bespoke OpenClaw and Hermes instances, CrewAI and LangGraph crews tuned to your domain and workflows.
 - **Full cloud-based agentic pipelines.** End to end, from acquisition and enrichment to reasoning and action, deployed on your own cloud.
 - **Sovereign model deployment.** Self-hosted open-weight models (Zhipu GLM, Llama) on your infrastructure, so sensitive data never leaves your perimeter.
-- **OSINT, DFIR, and compliance tooling.** Court-admissible evidence pipelines, multi-framework compliance, and threat intelligence.
+- **OSINT, DFIR, and compliance tooling.** Evidence-grade custody pipelines, multi-framework compliance, and threat intelligence.
 
 ## Tech stack
 
@@ -103,7 +103,7 @@ A running log of what I build and test on.
 
 | Project | What it is | DOI |
 |---------|------------|-----|
-| **[forenix-oss](https://github.com/thunderstornX/forenix-oss)** | OSINT-to-evidence platform: SHA-256 audit chain, three attestation backends (local, GitHub, Sigstore Rekor), SAT reasoning engine over six LLM providers. Live at [forenix.tech](https://forenix.tech). | `10.5281/zenodo.20329059` |
+| **[forenix-oss](https://github.com/thunderstornX/forenix-oss)** | OSINT-to-evidence platform: SHA-256 audit chain, three attestation backends (local, GitHub, Sigstore Rekor), multi-agent OSINT pipeline over six LLM providers, optional SAT auditability trace. Live at [forenix.tech](https://forenix.tech). | `10.5281/zenodo.20329059` |
 | **[lattice](https://github.com/thunderstornX/lattice)** | Accountability layer for multi-agent AI: signed, content-addressed claim graphs with a revocation waterfall. | `10.5281/zenodo.20341934` |
 | Multi-agent OSINT pipeline | Director and worker agent orchestration over a real OSINT toolchain, grounded in structured analytic techniques. | forthcoming |
 | LLM red-team toolkit | Adversarial probe suite mapped to the OWASP LLM Top 10. | forthcoming |
