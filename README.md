@@ -71,7 +71,22 @@ I am a security engineer who builds production systems where OSINT, digital fore
 ![Nessus](https://img.shields.io/badge/Nessus-00A4E4?style=for-the-badge)
 ![Belkasoft](https://img.shields.io/badge/Belkasoft%20DFIR-1f6feb?style=for-the-badge)
 
-OSINT toolchain: subfinder, httpx, nuclei, amass, maigret, sherlock, theHarvester. Standards: ISO 27001, NIST CSF, GDPR, OWASP.
+**OSINT toolchain**
+
+![subfinder](https://img.shields.io/badge/subfinder-0e7490?style=for-the-badge)
+![httpx](https://img.shields.io/badge/httpx-0e7490?style=for-the-badge)
+![nuclei](https://img.shields.io/badge/nuclei-0e7490?style=for-the-badge)
+![amass](https://img.shields.io/badge/amass-0e7490?style=for-the-badge)
+![maigret](https://img.shields.io/badge/maigret-0e7490?style=for-the-badge)
+![sherlock](https://img.shields.io/badge/sherlock-0e7490?style=for-the-badge)
+![theHarvester](https://img.shields.io/badge/theHarvester-0e7490?style=for-the-badge)
+
+**Standards and compliance**
+
+![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-1f6feb?style=for-the-badge)
+![NIST CSF](https://img.shields.io/badge/NIST%20CSF-005288?style=for-the-badge)
+![GDPR](https://img.shields.io/badge/GDPR-003399?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ## Models and frameworks
 
@@ -88,7 +103,7 @@ A running log of what I build and test on.
 | Project | What it is | DOI |
 |---------|------------|-----|
 | **[forenix-oss](https://github.com/thunderstornX/forenix-oss)** | OSINT-to-evidence platform: SHA-256 audit chain, three attestation backends (local, GitHub, Sigstore Rekor), SAT reasoning engine over six LLM providers. Live at [forenix.tech](https://forenix.tech). | `10.5281/zenodo.20329059` |
-| **[lattice](https://github.com/thunderstornX/lattice)** | Accountability layer for multi-agent AI: signed, content-addressed claim graphs with a revocation waterfall. | forthcoming |
+| **[lattice](https://github.com/thunderstornX/lattice)** | Accountability layer for multi-agent AI: signed, content-addressed claim graphs with a revocation waterfall. | `10.5281/zenodo.20341934` |
 | Multi-agent OSINT pipeline | Director and worker agent orchestration over a real OSINT toolchain, grounded in structured analytic techniques. | forthcoming |
 | LLM red-team toolkit | Adversarial probe suite mapped to the OWASP LLM Top 10. | forthcoming |
 | AI governance and model-risk checker | Policy and risk evaluation for LLM deployments. | forthcoming |
