@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/alimurtazabhutto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://orcid.org/0009-0007-2787-943X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
 <a href="mailto:alibhutto101112@gmail.com"><img src="https://img.shields.io/badge/Email-555?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://thunderstornX.github.io"><img src="https://img.shields.io/badge/Full%20CV-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a>
 <br/>
 <a href="https://forenix.tech"><img src="https://img.shields.io/badge/forenix.tech-1f6feb?style=flat-square&logo=icloud&logoColor=white"/></a>
 <a href="https://alphasearch.io"><img src="https://img.shields.io/badge/alphasearch.io-0b3d62?style=flat-square&logo=googlechrome&logoColor=white"/></a>
