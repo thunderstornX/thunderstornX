@@ -4,6 +4,14 @@ Cybersecurity researcher. I work on the security and privacy of LLM and agentic 
 
 ORCID [0009-0007-2787-943X](https://orcid.org/0009-0007-2787-943X) · [LinkedIn](https://www.linkedin.com/in/alimurtazabhutto) · alibhutto101112@gmail.com
 
+## Experience
+
+- [Alphasearch](https://alphasearch.io): open-source data-acquisition pipelines.
+- [OWS](https://openworkforce.systems): multi-agent system deployment.
+- Complai: multi-framework compliance platform.
+
+Detailed CV: [thunderstornX.github.io](https://thunderstornX.github.io)
+
 ## Open-source contributions
 
 Changes I wrote and had merged into established security and OSINT tools, each reviewed by the project maintainers.
